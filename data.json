@@ -1,0 +1,102 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://asset.kompas.com/crops/717Y5C_HPZU2nweoLZT7cQcKapY=/0x352:751x853/750x500/data/photo/2020/07/17/5f11041e59757.jpg",
+            "nama": "Cendol",
+            "size": "50 Gram",
+            "harga": "7.000",
+            "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kompas.com%2Ffood%2Fread%2F2021%2F04%2F24%2F130800875%2Fcara-membuat-cendol-sendiri-di-rumah-resep-dari-koki-hotel&psig=AOvVaw3nbfT176Ri50NbhV1on6BT&ust=1695375353492000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLDnw8Kzu4EDFQAAAAAdAAAAABAP"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqvQSZ1PB-m5Uer2sGiTvtPwu68sf5ChuDw&usqp=CAU",
+            "nama": "Es Buah",
+            "size": "100 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fkeeprecipes.com%2Fsites%2Fkeeprecipes%2Ffiles%2Fimagecache%2Frecipe_large%2F104127_1408063005_0.jpg&tbnid=3r1aM2h42FU1oM&vet=12ahUKEwjr2qXJjL2BAxVxpGMGHdCFDKAQMyhIegUIARCNAg..i&imgrefurl=http%3A%2F%2Fkeeprecipes.com%2Frecipe%2Fhowtocook%2Fes-buah-segar&docid=1aYAkKMhV1cgQM&w=300&h=300&q=es%20buah&ved=2ahUKEwjr2qXJjL2BAxVxpGMGHdCFDKAQMyhIegUIARCNAg"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4AQVw0MaLOBeX2m6ywkL-qMbigMNuyEqing&usqp=CAU",
+            "nama": "Teh Talua(Telur)",
+            "size": "100 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.yummy.co.id%2Fcontent-images%2Fimages%2F20210817%2F5u7gT4olvFbC6IMB1pr2exBDzk4v3I1u-31363239313935303830d41d8cd98f00b204e9800998ecf8427e.jpg%3Fx-oss-process%3Dimage%2Fresize%2Cw_600%2Ch_600%2Cm_fixed%2Cimage%2Fformat%2Cwebp&tbnid=REFbcU0buF7rdM&vet=12ahUKEwjZ0rHnjr2BAxV9tGMGHSWRBT4QMyhDegUIARDtAQ..i&imgrefurl=https%3A%2F%2Fwww.yummy.co.id%2Fresep%2Fteh-talua-gula-aren-ekstrapoin17an&docid=ktIoN02sKFreEM&w=600&h=600&q=teh%20talua&hl=id&ved=2ahUKEwjZ0rHnjr2BAxV9tGMGHSWRBT4QMyhDegUIARDtAQ"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO-fAyEf6fCADjf4Y86y10yCVtNNtmtJDFa2xVYm4G1_1-Oh3wlDO39a7D6cpvdU_M4gE&usqp=CAU ",
+            "nama": "Es Teler(Telur)",
+            "size": "100 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.ayobandung.com%2Fcrop%2F0x0%3A0x0%2F750x500%2Fwebp%2Fphoto%2F2022%2F12%2F16%2F2210278917.jpg&tbnid=M_cd_RmDO8cNTM&vet=10CBMQMyhxahcKEwj4xaz9k72BAxUAAAAAHQAAAAAQAg..i&imgrefurl=https%3A%2F%2Fwww.mengerti.id%2Fragam%2Fpr-6646091118%2Fresep-es-teler-yang-segar-manis-dan-cocok-untuk-pelepas-dahaga&docid=A7o8589HZIiVkM&w=750&h=500&q=es%20teler&hl=id&ved=0CBMQMyhxahcKEwj4xaz9k72BAxUAAAAAHQAAAAAQAg "
+        }
+    ],
+    "cemilan": [
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIY1m4nH0OQMiuz1irrmeTGop-LkBxWg2ccw&usqp=CAU",
+            "nama": "Potato Wedges",
+            "size": "100 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fspicecravings.com%2Fwp-content%2Fuploads%2F2022%2F02%2FAir-Fryer-Potato-Wedges-Featured.jpg&tbnid=hxk6oykxHw6KhM&vet=12ahUKEwi0oJn9l72BAxWv6DgGHV1rAkMQMyhBegUIARCMAg..i&imgrefurl=https%3A%2F%2Fspicecravings.com%2Fair-fryer-potato-wedges&docid=OsymcKjH0srnsM&w=1200&h=1200&q=potato%20wedges&ved=2ahUKEwi0oJn9l72BAxWv6DgGHV1rAkMQMyhBegUIARCMAg"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZg0zT30KeHo_19ZFteEVTeDxQQbaO79artA&usqp=CAU",
+            "nama": "Cireng",
+            "size": "150 Gram",
+            "harga": "10.000",
+            "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fresepmamiku.com%2Fwp-content%2Fuploads%2F2022%2F03%2Fcireng-krispi-norita-foods-850x758.jpg&tbnid=SkfiBcUOE4h_xM&vet=12ahUKEwipuKnWlb2BAxUtiGMGHZNgAvIQMygXegUIARCDAQ..i&imgrefurl=https%3A%2F%2Fresepmamiku.com%2Fcireng-krispi-norita_foods&docid=fr3tRzn_ewHQBM&w=850&h=758&q=cireng&hl=id&ved=2ahUKEwipuKnWlb2BAxUtiGMGHZNgAvIQMygXegUIARCDAQ"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqM2QdI1DmJadsC_-lXrpiaDrkdVBY08ZAw&usqp=CAU",
+            "nama": "Waffle",
+            "size": "200 Gram",
+            "harga": "30.000",
+            "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.deliciousmeetshealthy.com%2Fwp-content%2Fuploads%2F2023%2F06%2FGluten-Free-Waffles-3-scaled.jpg&tbnid=XLPR33Af3AogeM&vet=12ahUKEwjajM-Yl72BAxVE2zgGHRgFA7cQMygcegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fwww.deliciousmeetshealthy.com%2Fgluten-free-waffles%2F&docid=mKPaoKpoJq3PxM&w=1365&h=2048&q=waffle&ved=2ahUKEwjajM-Yl72BAxVE2zgGHRgFA7cQMygcegUIARCXAQ"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxApuz1p0MJVeSDh9atNor23rPogzu--Qulg&usqp=CAU",
+            "nama": "Puding Roti Tawar",
+            "size": "150 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fresepkoki.id%2Fwp-content%2Fuploads%2F2018%2F02%2FResep-Bread-Pudding.jpg&tbnid=0b5imY710B3szM&vet=12ahUKEwj215Gsmb2BAxWW5DgGHa8YD28QMyhWegUIARCkAg..i&imgrefurl=https%3A%2F%2Fresepkoki.id%2Fresep%2Fresep-bread-pudding-puding-roti-tawar%2F&docid=1TtPc9azvXTwjM&w=1920&h=1745&q=Puding%20roti%20tawar.&ved=2ahUKEwj215Gsmb2BAxWW5DgGHa8YD28QMyhWegUIARCkAg"
+        }
+    ]
+    
+}
